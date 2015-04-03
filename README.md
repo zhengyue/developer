@@ -101,6 +101,9 @@
     * 禁止复制/粘贴编程法
     * 在发现自己需要复制代码的时候就要考虑重构了
     * 重构的首要目标是让代码便于理解和维护
+* 了解不同的编程模式
+    * 命令式编程
+    * 声明式编程
 * 不要在代码里埋地雷
     * 避免Magic Number，使用常量定义或者变量
     * 同一个变量不要有多种用途
@@ -124,21 +127,28 @@
 
 # Web前端开发者需要掌握的知识
 
+## HTML
+* DOM概念
+* HTML5
+
+## CSS
+* CSS选择器
+* 学习使用CSS预处理器，了解Less或SASS
+
 ## JavaScript
+* 与传统面向对象语言的区别
+* Prototype的概念
 * 如何扩展一个对象
 * 理解和应用闭包
 * 知道 Grunt / Gulp/ npm / Bower 这些工具的用途
 
-## CSS
-* CSS预处理器，了解Sass Compass, Less
-
-## HTML
-* HTML5
-
 ## 框架
-* Bootstrap
-* AngularJS
-* 
+* 了解UI编程的几种模式：MVC、Binding
+* 了解不同框架的应用场景：Bootstrap，AngularJS等等
+
+## 移动跨平台开发
+* 工具：PhoneGap / Apache Cordova
+* 了解至少一种框架：jQuery Mobile, Ionic, Famo.us，App.js等等
 
 # iOS开发者需要掌握的知识
 
